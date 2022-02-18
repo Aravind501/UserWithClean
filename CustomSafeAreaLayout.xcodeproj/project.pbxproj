@@ -13,7 +13,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F2877D2B27BFB0FB007410CB /* CustomSafeAreaLayout.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = CustomSafeAreaLayout.podspec; sourceTree = SOURCE_ROOT; };
+		F2877D2B27BFB0FB007410CB /* CustomSafeAreaLayout.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = CustomSafeAreaLayout.podspec; sourceTree = SOURCE_ROOT; };
 		F2DCDE4C27BFAF2800A5E3B3 /* CustomSafeAreaLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CustomSafeAreaLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2DCDE4F27BFAF2800A5E3B3 /* CustomSafeAreaLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomSafeAreaLayout.h; sourceTree = "<group>"; };
 		F2DCDE5027BFAF2800A5E3B3 /* CustomSafeAreaLayout.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = CustomSafeAreaLayout.docc; sourceTree = "<group>"; };
